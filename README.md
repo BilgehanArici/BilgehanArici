@@ -2,7 +2,7 @@
 
 Full-Stack | Software Engineer :robot:. (In Progress)
 
-Current Bilgeadam Bootcamp Student. 👨‍💻
+Bilgeadam Bootcamp Student. 👨‍💻
 
 Ex Civil Engineer 👷
 
@@ -12,7 +12,7 @@ Ex Civil Engineer 👷
 :heart: Programming | :black_heart: Weight Training | :blue_heart: Scuba Diving
 
 - 🌎: I'm from Ankara - Turkey
-- :gem: Looking for Software Engineering Internships
+- :gem:   Currently learning C# and .Net applications
 
 
 ## Connect Me :mailbox_with_no_mail:
