@@ -2,7 +2,7 @@
 
 Full-Stack | Software Engineer :robot:. (In Progress)
 
-Bilgeadam Bootcamp Student. 👨‍💻
+Bilgeadam Bootcamp Student 👨‍💻
 
 Ex Civil Engineer 👷
 
