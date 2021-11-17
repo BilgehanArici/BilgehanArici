@@ -15,7 +15,7 @@ Ex Civil Engineer 👷
 - :gem:   Currently learning C# and .Net applications
 
 
-## Connect Me :mailbox_with_no_mail:
+## Contact Me :mailbox_with_no_mail:
 
 
 [![Twitter URL](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falejandro-ramirez-ciceros%2F)](https://tr.linkedin.com/in/bilgehan-arici-007968158)
