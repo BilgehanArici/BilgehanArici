@@ -12,7 +12,7 @@ Ex Civil Engineer 👷
 :heart: Programming | :black_heart: Weight Training | :blue_heart: Scuba Diving
 
 - 🌎: I'm from Ankara - Turkey
-- :gem:   Currently learning C# and .Net applications
+- :gem:   Currently learning MERN stack
 
 
 ## Contact Me :mailbox_with_no_mail:
