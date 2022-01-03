@@ -1,8 +1,8 @@
 # Hello there, I'm Bilgehan Arici 
 
-Full-Stack | Software Engineer :robot:. (In Progress)
+Full-Stack JavaScript | Software Engineer :robot:. (In Progress)
 
-Bilgeadam Bootcamp Student 👨‍💻
+patika.dev Bootcamp Student 👨‍💻
 
 Ex Civil Engineer 👷
 
