@@ -1,6 +1,6 @@
 # Hello there, I'm Bilgehan Arici 
 
-Full Stack JavaScript Software Engineer :robot:. (In Progress)
+Full Stack JavaScript Developer :robot:. (In Progress)
 
 patika.dev Bootcamp Student 👨‍💻
 
