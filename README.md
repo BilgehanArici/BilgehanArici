@@ -1,6 +1,6 @@
 # Hello there, I'm Bilgehan Arici 
 
-![total visitors](https://visitor-badge.glitch.me/badge?page_id=${BilgehanArici}.${416281047})
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${BilgehanArici}.${416281047})
 
 Full Stack JavaScript Developer :robot:. (In Progress)
 
