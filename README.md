@@ -18,9 +18,7 @@ Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=
 - Ex Civil Engineer 👷
 - Resume
 - Reach me via email: bilgehanarici97@gmail.com 📫
-- 
 #
-
 📈 **My GitHub Stats:**
 
 <p>
