@@ -1,5 +1,7 @@
 # Hello there, I'm Bilgehan Arici 
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 Full Stack JavaScript Developer :robot:. (In Progress)
 
 patika.dev Bootcamp Student 👨‍💻
