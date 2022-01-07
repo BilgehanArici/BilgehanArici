@@ -22,13 +22,6 @@ Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=
 
 #
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
 📈 **My GitHub Stats:**
 
 <p>
@@ -36,5 +29,11 @@ No Activity tracked this Week
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilgehanArici&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
+<!--END_SECTION:waka-->
 ---
 ⭐️ From [BilgehanArici](https://github.com/BilgehanArici)
