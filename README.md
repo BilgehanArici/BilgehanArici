@@ -12,20 +12,20 @@
 ### Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${BilgehanArici}.${416281047})
 <!-- total visitor counter -->
 
-**Personal Info**
+**Personal**
 
-- Self Taught Full Stack JavaScript Developer :technologist: (In Progress)
-- patika.dev Bootcamp Student :student:
-- Ex Civil Engineer 👷
+- :technologist: Self Taught Full Stack JavaScript Developer (In Progress)
+- :student: patika.dev Bootcamp Student 
+- 👷 Ex Civil Engineer 
 - Resume <!-- todo resume page needs to be added  -->
-- Reach me via email: bilgehanarici97@gmail.com 📫
+- 📫 Reach me via email: bilgehanarici97@gmail.com 
 
 #
 
 📈 **My GitHub Stats:**
 
 <p>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilgehanArici&exclude_repo=KNN-Image-      Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BilgehanArici&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+ <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilgehanArici&exclude_repo=KNN-Image-      Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> <img height="200em" src="https://github-readme-stats.vercel.app/api?username=BilgehanArici&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
 
 📊 **This Week I Spent My Time On:**
