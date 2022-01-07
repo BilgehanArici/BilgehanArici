@@ -21,6 +21,8 @@ Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=
 
 - Reach me via email: bilgehanarici97@gmail.com 📫
 
+<br>
+
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
