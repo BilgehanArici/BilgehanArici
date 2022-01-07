@@ -19,6 +19,8 @@ Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=
 
 - Reach me via email: bilgehanarici97@gmail.com 📫
 
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
