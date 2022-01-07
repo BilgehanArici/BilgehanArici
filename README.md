@@ -1,4 +1,4 @@
-# Hi there,I'm Bilgehan Arici :wave:
+<strong> Hi there,I'm Bilgehan Arici <strong> :wave:
 
  <!-- total visitor counter -->
 Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${BilgehanArici}.${416281047})
