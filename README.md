@@ -1,7 +1,7 @@
 # Hi there,I'm Bilgehan Arici :wave:
 
-# Glad to see you here! <!-- total visitor counter -->
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${BilgehanArici}.${416281047})
+ <!-- total visitor counter -->
+Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${BilgehanArici}.${416281047})
 <!-- total visitor counter -->
 
 <!-- Github Stats -->
