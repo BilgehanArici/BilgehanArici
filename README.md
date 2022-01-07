@@ -5,6 +5,8 @@
 <!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://gkassym.netlify.app) -->
 <!-- [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://gapur-kassym.medium.com/) -->
 
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+
  <!-- total visitor counter -->
 Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${BilgehanArici}.${416281047})
 <!-- total visitor counter -->
@@ -18,8 +20,6 @@ Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=
 - Ex Civil Engineer 👷
 
 - Reach me via email: bilgehanarici97@gmail.com 📫
-
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
