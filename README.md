@@ -17,9 +17,11 @@ Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=
 - Self Taught Full Stack JavaScript Developer :technologist: (In Progress)
 - patika.dev Bootcamp Student :student:
 - Ex Civil Engineer 👷
-- Resume
+- Resume <!-- todo resume page needs to be added  -->
 - Reach me via email: bilgehanarici97@gmail.com 📫
+
 #
+
 📈 **My GitHub Stats:**
 
 <p>
