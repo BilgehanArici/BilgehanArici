@@ -21,6 +21,8 @@
 - Resume <!-- todo resume page needs to be added  -->
 - 📫 Reach me via email: bilgehanarici97@gmail.com 
 
+<br>
+
 #
 
 📈 **My GitHub Stats:**
