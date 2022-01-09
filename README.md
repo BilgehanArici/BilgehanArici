@@ -15,7 +15,7 @@
 
 **Personal**
 
-- :technologist: Self Taught Full Stack JavaScript Developer (In Progress)
+- :technologist: Self Taught Full Stack JavaScript Developer
 - :student: patika.dev Bootcamp Student 
 - 👷 Ex Civil Engineer 
 - Resume <!-- todo resume page needs to be added  -->
