@@ -17,9 +17,9 @@
 
 - :computer: Self Taught Full Stack JavaScript Developer
 - :man_student: patika.dev Bootcamp Student 
-- 👷 Ex Civil Engineer 
-- Resume <!-- todo resume page needs to be added  -->
+- 👷 Ex Civil Engineer  
 - 📫 Reach me via email: bilgehanarici97@gmail.com 
+<!-- todo resume page needs to be added  -->
 
 <br>
 
