@@ -17,7 +17,7 @@
 
 - :computer: Software Engineer (Full Stack Web Development)
 - 🤖 A Self Taught Lean, Mean, Learning Machine
-- :man_student: patika.dev and #100devs Bootcamp Student 
+- :man_student: patika.dev and #100Devs Bootcamp Student 
 - 👷 Ex Civil Engineer  
 - 📫 Reach me via email: bilgehanarici97@gmail.com 
 <!-- todo resume page needs to be added  -->
