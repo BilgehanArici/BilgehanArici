@@ -15,7 +15,8 @@
 
 **Personal**
 
-- :computer: Self Taught Full Stack JavaScript Developer
+- :computer: Software Engineer (Full Stack Web Development)
+- Self taught
 - :man_student: patika.dev Bootcamp Student 
 - 👷 Ex Civil Engineer  
 - 📫 Reach me via email: bilgehanarici97@gmail.com 
