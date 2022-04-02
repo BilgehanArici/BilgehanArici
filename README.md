@@ -1,4 +1,4 @@
-# Hi there, I'm Bilgehan Arici <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there, I'm Bilgehan "Bigo" Arici <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!-- todo this gif source needs to change -->
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="auto" height="300" />
