@@ -16,7 +16,7 @@
 **Personal**
 
 - :computer: Software Engineer (Full Stack Web Development)
-- 🤖 A Self Taught Lean, Mean, Learning Machine
+- 🤖 Freelance Web Dev
 - 👷 Ex Civil Engineer  
 - 📫 Reach me via email: bilgehanarici97@gmail.com 
 <!-- todo resume page needs to be added  -->
