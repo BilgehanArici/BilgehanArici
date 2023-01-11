@@ -15,7 +15,7 @@
 
 **Personal**
 
-- :computer: Computer Engineering Master's Student
+- :computer: Computer Engineering Master's Student @ TOBB University
 - 👷 Ex Civil Engineer  
 - 📫 Reach me via email: bilgehanarici97@gmail.com 
 <!-- todo resume page needs to be added  -->
