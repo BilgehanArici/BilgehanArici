@@ -10,7 +10,7 @@
 <!-- [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://gapur-kassym.medium.com/) -->
 
  <!-- total visitor counter -->
-### Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${BilgehanArici}.${416281047})
+### Glad to see you here! 
 <!-- total visitor counter -->
 
 **Personal**
